@@ -1,0 +1,9 @@
+poliklinik1.kasir$7
+poliklinik1.kasir$8
+poliklinik1.kasir$1
+poliklinik1.kasir$2
+poliklinik1.kasir$3
+poliklinik1.kasir$4
+poliklinik1.kasir$5
+poliklinik1.kasir
+poliklinik1.kasir$6
